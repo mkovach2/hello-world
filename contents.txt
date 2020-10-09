@@ -1,0 +1,65 @@
+./
+../
+.bash_history
+.conda/
+.condarc
+.config/
+.gitconfig
+.ipython/
+.jssc/
+.jupyter/
+.matplotlib/
+.octave_hist
+.oracle_jre_usage/
+.pylint.d/
+.spyder-py3/
+.ssh/
+.swt/
+.thumbnails/
+.viminfo
+.VirtualBox/
+.vscode/
+.Xilinx/
+3D Objects/
+anaconda3/
+AppData/
+Apple/
+Application Data@
+Calibre Library/
+Contacts/
+Cookies@
+Desktop/
+Documents/
+Downloads/
+Favorites/
+IntelGraphicsProfiles/
+kvirc4.ini
+Library/
+Links/
+Local Settings@
+MicrosoftEdgeBackups/
+Music/
+My Documents@
+NetHood@
+NTUSER.DAT
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+NTUSER.DAT{1fb7a3a0-6030-11ea-ac05-f48e38ec340d}.TM.blf
+NTUSER.DAT{1fb7a3a0-6030-11ea-ac05-f48e38ec340d}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{1fb7a3a0-6030-11ea-ac05-f48e38ec340d}.TMContainer00000000000000000002.regtrans-ms
+ntuser.ini
+OneDrive/
+Pictures/
+PrintHood@
+printrunconf.ini
+printrunconf.ini~bak
+Recent@
+Roaming/
+Saved Games/
+Searches/
+SendTo@
+Start Menu@
+Templates@
+Videos/
+VirtualBox VMs/
+xilinx/
